@@ -1,0 +1,141 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .h400 {
+        height: 400px;
+    }
+    
+    .bg {
+        background-color: #122f67;
+    }
+    
+    .bg1 {
+        background-color: #00000070;
+    }
+    
+    .h100 {
+        height: 100vh;
+    }
+    
+    .myporofile {
+        position: fixed;
+        left: 0;
+        top: 0;
+    }
+    
+    .Me {
+        width: 70%;
+        align-items: center;
+        padding-top: 50px;
+    }
+    
+    .Myimg {
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        align-items: center;
+    }
+    
+    .fwhite {
+        color: white;
+    }
+    
+    ul {
+        list-style-type: none;
+        padding-top: 10px;
+    }
+    
+    li {
+        padding: 5px 0px 5px 0px;
+        font-size: 20px;
+        transition: 2s;
+    }
+    
+    li:hover {
+        background-color: #00000070;
+    }
+    
+    .footer {
+        margin-top: 100px;
+        padding: 20px 34px 0px;
+    }
+    
+    .i {
+        font-size: 20px;
+        transition: 1s;
+    }
+    
+    .i:hover {
+        color: #00000070;
+    }
+    /* *Home */
+    
+    .bgimg {
+        background-image: url('img/bg_homepage.8b4cf4a.jpg');
+        background-size: cover;
+    }
+    
+    .border {
+        border: 5px solid;
+    }
+    
+    .header {
+        position: absolute;
+        top: 180px;
+        left: 290px;
+    }
+    
+    .h1 {
+        font-size: 40px;
+        letter-spacing: 5px;
+    }
+    /* About */
+    
+    .text_underline {
+        text-decoration: underline;
+    }
+    
+    .cboth {
+        clear: both;
+    }
+    
+    .fontfamily {
+        font-family: 'Cabin', sans-serif;
+    }
+    
+    .Myimg2 {
+        width: 200px;
+        height: 200px;
+    }
+    /* My work_Login */
+    
+    .Login {
+        width: 105px;
+        height: 35px;
+        outline: none;
+        border: none;
+        background-color: lightskyblue;
+    }
+    
+    .fcgray {
+        color: gray;
+    }
+    
+    .Loginpage {
+        margin-left: 70px;
+    }
+    
+    .Loginimg1 {
+        width: 200px;
+        height: 200px;
+        border: 2px solid;
+        border-radius: 3%;
+    }
+    
+    hr {
+        width: 50%;
+        margin-left: 25%;
+        border: 1px solid;
+    }
